@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233009358956",
+    "project_id": "swiftcart-61be0",
+    "storage_bucket": "swiftcart-61be0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233009358956:android:701640aab3fabb29339049",
+        "android_client_info": {
+          "package_name": "com.example.swiftcart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXzgcqjUJ7dPRwn0XIo-q4Tffc3gJUbD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

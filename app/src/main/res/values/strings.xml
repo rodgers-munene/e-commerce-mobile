@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SwiftCart</string>
+    <string name="username_login">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login_text">Log In</string>
+    <string name="login_checkbox">Remember Me</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="main_string">Welcome to SwiftCart. Hope You enjoy your shopping.</string>
+    <string name="facebook_login">Facebook Login</string>
+    <string name="google_login">Google Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="terms">I Agree with privacy and policy</string>
+    <string name="signup_question">Already have an account?</string>
+    <string name="email">Email</string>
+
+</resources>
