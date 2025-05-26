@@ -40,11 +40,11 @@ public class LoginActivity extends AppCompatActivity {
         SplashScreen.installSplashScreen(this);
         FirebaseUser currentUser = FirebaseAuth.getInstance().getCurrentUser();
 
-        if(currentUser != null){
-            startActivity(new Intent(LoginActivity.this, MainActivity.class));
-            finish();
-            return;
-        }
+//        if(currentUser == null){
+//            startActivity(new Intent(LoginActivity.this, MainActivity.class));
+//            finish();
+//            return;
+//        }
         setContentView(R.layout.activity_login);
 
 

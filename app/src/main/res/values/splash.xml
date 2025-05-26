@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.SwiftCart.MySplash" parent="Theme.SplashScreen">
+    <style name="Theme.SwiftCart.MySplash" parent="Theme.SwiftCart">
         <item name="windowSplashScreenBackground">@color/white</item>
         <item name="windowSplashScreenAnimatedIcon">@drawable/cart</item>
         <item name="postSplashScreenTheme">@style/Theme.SwiftCart</item>
